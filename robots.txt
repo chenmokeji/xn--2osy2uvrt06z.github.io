@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:///C:\Users\xxxgg\Documents\Publii\sites\chen-mo-ke-ji\preview/sitemap.xml
